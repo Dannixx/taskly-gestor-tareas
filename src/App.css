@@ -1,0 +1,14 @@
+
+#root {
+  min-height: 100vh;
+}
+
+.session-loading {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #8063c8;
+  background: #f3f0fa;
+  font-weight: 600;
+}
